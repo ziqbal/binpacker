@@ -16,11 +16,11 @@ $myobj->setBinSize(4.7,"g");
 // You can ignore extension argument which will then include every file
 // The 'True' argument can be ignored if you don't want to recurse into
 // directories
-$myobj->add('C:\\input\\movies\\monday',true,'mpg');
+$myobj->add('C:\\input\\bigfiles\\monday',true,'mpg');
 
 // Add all files with 'avi' extension in directory, including sub directories
 // Just to show that the case of extension string argument does not matter
-$myobj->add('/input/movies/tuesday',true,'AVI');
+$myobj->add('/input/bigfiles/tuesday',true,'AVI');
 
 // Add all files with 'zip' extension in one directory only
 // No recursion here
