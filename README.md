@@ -27,5 +27,5 @@ Disclaimer
 	http://mathworld.wolfram.com/Bin-PackingProblem.html
 	And finally - BACKUP YOUR DATA BEFORE USE ;)
 
-2004-12-21	Zafar Iqbal ultrasine AT gmail
+2004-12-21	Zafar Iqbal
 

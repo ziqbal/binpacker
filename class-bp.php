@@ -2,7 +2,7 @@
 /**
 * Bin Packer Class
 * See readme.txt file for description and usage
-* 2004-12-19	First Version	ultrasine@gmail.com
+* 2004-12-19	First Version	Zafar Iqbal
 *
 * IMPORTANT NOTE
 * there is no warranty, implied or otherwise with this software.
@@ -10,7 +10,7 @@
 * LICENCE
 * This code has been placed in the Public Domain for all to enjoy.
 *
-* @author	<ultrasine@gmail.com>
+* @author	Zafar Iqbal
 * @package	BinPacker
 */
 class BinPacker {
